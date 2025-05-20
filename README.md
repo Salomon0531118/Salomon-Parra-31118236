@@ -1,4 +1,5 @@
 import { Prisionero } from "../Prototipos/Prisionero";
+
 // Esta estrategia  conocida como "Pavlov" o "Gana-Quédate, Pierde-Cambia". En esencia, simula cómo un prisionero decide si confesar (traicionar) o cooperar (callar) con su cómplice en una serie de interacciones repetidas.
 // La lógica principal de este Prisionero se encuentra en el método confesar():
 
